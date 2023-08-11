@@ -12,13 +12,13 @@ int x = 5;                // This runs first
 ### Relational Expressions:
 
 A relational expression is an expression that evaluates to either true or false. Relational operators include:
-- <
-- >
-- <=
-- >=
-- ==
-- !=
-- bool
+ <
+ >
+ <=
+ >=
+ ==
+ !=
+ bool
 
 Example one:
 ```cpp
