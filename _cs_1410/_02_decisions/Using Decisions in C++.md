@@ -12,12 +12,12 @@ int x = 5;                // This runs first
 ### Relational Expressions:
 
 A relational expression is an expression that evaluates to either true or false. Relational operators include:
- <
- >
- <=
- >=
- ==
- !=
+ < <br>
+ > <br>
+ <= <br>
+ >= <br>
+ == <br>
+ != <br>
  bool
 
 Example one:
